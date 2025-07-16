@@ -2,7 +2,7 @@
 
 ### 🎓 Student & Developer
 - **42 Vienna** 🖥️ (Software Engineering)  
-- **University of Vienna** 📊 (Economics)  
+- **University of Vienna** 📊 (Economics & Econometrics)
 - Passionate about **low level programming** & **algorithmic efficiency**  
 
 ### 💻 Tech Stack
