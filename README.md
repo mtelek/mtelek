@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Márton 👋
 
-<!--
-**mtelek/mtelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student & Developer
+- **42 Vienna** 🖥️ (Software Engineering)  
+- **University of Vienna** 📊 (Economics)  
+- Passionate about **low level programming** & **algorithmic efficiency**  
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages:** C, C++  
+- **Tools:** Git, Makefile, Linux, Vim, GDB  
+- **Concepts:** Memory management, multithreading, data structures  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **[Minishell](https://github.com/mtelek/minishell)** – Custom `shell` in C (bash-like)  
+- **[Philosophers](https://github.com/mtelek/philosophers)** – Solved `Dining Philosophers` with threads/mutexes  
+- **[Cub3D](https://github.com/mtelek/cub3D)** – `Raycasting 3D engine` (C/MLX) with textures  
+
+### 🌱 Learning Now
+- **Advanced C++** (STL, templates)  
+
+### ⭐ **Favorite Quote:** 
+"Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves" - Albert Einstein  
+
+---
+### 📫 Reach Me
+- [LinkedIn](https://www.linkedin.com/in/m%C3%A1rton-telek-1213a223b/) 
+- [Email](marcitelek@gmail.com)
