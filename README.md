@@ -16,10 +16,7 @@
 - **[Cub3D](https://github.com/mtelek/cub3D)** – `Raycasting 3D engine` (C/MLX) with textures  
 
 ### 🌱 Learning Now
-- **Advanced C++** (STL, templates)  
-
-### ⭐ **Favorite Quote:** 
-"Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves" - Albert Einstein  
+- **Advanced C++**
 
 ---
 ### 📫 Reach Me
