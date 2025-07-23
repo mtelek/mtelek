@@ -1,5 +1,7 @@
 # Hi, I'm Márton 👋
 
+[![mtelek's 42 stats](https://badge.mediaplus.ma/black/mtelek)](https://github.com/oakoudad/badge42)
+
 ### 🎓 Student & Developer
 - **42 Vienna** 🖥️ (Software Engineering)  
 - **University of Vienna** 📊 (Economics & Econometrics)
