@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hi, I'm Márton 👋
 
 ### 🎓 Student & Developer
