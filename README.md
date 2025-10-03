@@ -6,9 +6,9 @@
 - Passionate about **low level programming** & **algorithmic efficiency**  
 
 ### 💻 Tech Stack
-- **Languages:** C, C++  
-- **Tools:** Git, Makefile, Linux, Vim, GDB  
-- **Concepts:** Memory management, multithreading, data structures  
+- **Languages:** C, C++, R, Jupyter Notebooks
+- **Tools:** Git, Makefile, Linux, Vim, GDB, 
+- **Concepts:** Memory management, Multithreading, Data structures, Regression analysis, Statistical modelling, Data analysis
 
 ### 🚀 Projects
 - **[Minishell](https://github.com/mtelek/minishell)** – Custom `shell` in C (bash-like)  
