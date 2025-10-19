@@ -11,8 +11,10 @@
 - **Concepts:** Memory management, Multithreading, Data structures, Regression analysis, Statistical modelling, Data analysis
 
 ### 🚀 Projects
-- **[Minishell](https://github.com/mtelek/minishell)** – Custom `shell` in C (bash-like)  
+- **[Ford-Johnson sorting algorithm](https://github.com/mtelek/Ford-Johnson-Algorithm)** – C++ implementation of Merge-Insertion sort
+- **[Push_swap](https://github.com/mtelek/push_swap)** – Sorting algorithm implemented in C
 - **[Philosophers](https://github.com/mtelek/philosophers)** – Solved `Dining Philosophers` with threads/mutexes  
+- **[Minishell](https://github.com/mtelek/minishell)** – Custom `shell` in C (bash-like)  
 - **[Cub3D](https://github.com/mtelek/cub3D)** – `Raycasting 3D engine` (C/MLX) with textures  
 
 ### 🌱 Learning Now
