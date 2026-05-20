@@ -1,26 +1,29 @@
 # Hi, I'm Márton 👋
+Economics & Software Engineering graduate focused on data, algorithms, systems, and quantitative development.
 
-### 🎓 Student & Developer
-- **42 Vienna** 🖥️ (Software Engineering)  
-- **University of Vienna** 📊 (Economics & Econometrics)
-- Passionate about **low level programming** & **algorithmic efficiency**  
+### Education
+- **Economics & Econometrics Graduate** of University of Vienna
+- **Software Engineer Graduate** of 42 Vienna
 
-### 💻 Tech Stack
-- **Languages:** C, C++, R, Jupyter Notebooks
-- **Tools:** Git, Makefile, Linux, Vim, GDB, 
-- **Concepts:** Memory management, Multithreading, Data structures, Regression analysis, Statistical modelling, Data analysis
+### Tech Stack
+- **Languages:** R, C++, C, Python, Julia, Next.js
+- **Tools:** PostgreSQL, Docker, Git 
+- **Concepts:** Data Structures & Algorithms, Regression Analysis, Statistical Modeling, Data Analysis, Optimization, Memory Management, Multithreading, System Programming, Linux/UNIX Systems
 
-### 🚀 Projects
-- **[Ford-Johnson sorting algorithm](https://github.com/mtelek/Ford-Johnson-Algorithm)** – C++ implementation of Merge-Insertion sort
-- **[Push_swap](https://github.com/mtelek/push_swap)** – Sorting algorithm implemented in C
-- **[Philosophers](https://github.com/mtelek/philosophers)** – Solved `Dining Philosophers` with threads/mutexes  
-- **[Minishell](https://github.com/mtelek/minishell)** – Custom `shell` in C (bash-like)  
-- **[Cub3D](https://github.com/mtelek/cub3D)** – `Raycasting 3D engine` (C/MLX) with textures  
+### Projects
+- **[Ford-Johnson sorting algorithm](https://github.com/mtelek/Ford-Johnson-Algorithm)** – C++ implementation of Merge-Insertion sort with focus on algorithmic efficiency
+- **[Push_swap](https://github.com/mtelek/push_swap)** – Sorting algorithm system in C using constrained operations and optimal move sequences
+- **[Philosophers](https://github.com/mtelek/philosophers)** – Concurrency simulation using threads, mutexes, and synchronization primitives
+- **[Minishell](https://github.com/mtelek/minishell)** – Unix-like shell supporting parsing, process execution, and piping in C
+- **[Cub3D](https://github.com/mtelek/cub3D)** – Raycasting-based 3D rendering engine with texture mapping and real-time graphics
+- **[Ft_transcendence](https://github.com/mtelek/ft_transcendence)** – Full-stack web application featuring a real-time multiplayer poker game
 
-### 🌱 Learning Now
-- **Advanced C++**
+### Focus Areas
+- Data Engineering & Backend Systems
+- Quantitative Analysis & Statistical Modeling
+- High-performance Programming (C/C++)
+- Algorithm Design & Optimization
 
 ---
 ### 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/m%C3%A1rton-telek-1213a223b/) 
-- [Email](marcitelek@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/marton-telek/)
