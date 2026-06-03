@@ -11,6 +11,7 @@ Economics & Software Engineering graduate focused on data, algorithms, systems, 
 - **Concepts:** Data Structures & Algorithms, Regression Analysis, Statistical Modeling, Data Analysis, Optimization, Memory Management, Multithreading, System Programming, Linux/UNIX Systems
 
 ### Projects
+- **[Threshold regression model](https://github.com/mtelek/threshold_linear_regression_model)** – Panel threshold analysis of housing price effects on consumption in Spain
 - **[Ford-Johnson sorting algorithm](https://github.com/mtelek/Ford-Johnson-Algorithm)** – C++ implementation of Merge-Insertion sort with focus on algorithmic efficiency
 - **[Push_swap](https://github.com/mtelek/push_swap)** – Sorting algorithm system in C using constrained operations and optimal move sequences
 - **[Philosophers](https://github.com/mtelek/philosophers)** – Concurrency simulation using threads, mutexes, and synchronization primitives
@@ -19,8 +20,8 @@ Economics & Software Engineering graduate focused on data, algorithms, systems, 
 - **[Ft_transcendence](https://github.com/mtelek/ft_transcendence)** – Full-stack web application featuring a real-time multiplayer poker game
 
 ### Focus Areas
-- Data Engineering & Backend Systems
 - Quantitative Analysis & Statistical Modeling
+- Data Engineering & Backend Systems
 - High-performance Programming (C/C++)
 - Algorithm Design & Optimization
 
