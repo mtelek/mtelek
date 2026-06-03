@@ -1,8 +1,6 @@
 # Hi, I'm Márton 👋
 Quantitative & systems-oriented engineer working at the intersection of econometrics, algorithms, and high-performance software.
 
----
-
 ## Focus Areas
 - Quantitative modeling & econometrics (regression, threshold models, statistical inference)
 - Algorithm design & optimization under constraints
