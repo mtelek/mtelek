@@ -7,7 +7,7 @@ Economics & Software Engineering graduate focused on data, algorithms, systems, 
 
 ### Tech Stack
 - **Languages:** R, C++, C, Python, Julia, Next.js
-- **Tools:** PostgreSQL, Docker, Git 
+- **Tools:** PostgreSQL, Docker, Git, Bash
 - **Concepts:** Data Structures & Algorithms, Regression Analysis, Statistical Modeling, Data Analysis, Optimization, Memory Management, Multithreading, System Programming, Linux/UNIX Systems
 
 ### Projects
