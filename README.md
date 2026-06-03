@@ -1,30 +1,59 @@
 # Hi, I'm Márton 👋
-Economics & Software Engineering graduate focused on data, algorithms, systems, and quantitative development.
-
-### Education
-- **Economics & Econometrics Graduate** of University of Vienna
-- **Software Engineer Graduate** of 42 Vienna
-
-### Tech Stack
-- **Languages:** R, C++, C, Python, Julia, Next.js
-- **Tools:** PostgreSQL, Docker, Git, Bash
-- **Concepts:** Data Structures & Algorithms, Regression Analysis, Statistical Modeling, Data Analysis, Optimization, Memory Management, Multithreading, System Programming, Linux/UNIX Systems
-
-### Projects
-- **[Threshold regression model](https://github.com/mtelek/threshold_regression_model)** – Panel threshold analysis of housing price effects on consumption in Spain
-- **[Ford-Johnson sorting algorithm](https://github.com/mtelek/Ford-Johnson-Algorithm)** – C++ implementation of Merge-Insertion sort with focus on algorithmic efficiency
-- **[Push_swap](https://github.com/mtelek/push_swap)** – Sorting algorithm system in C using constrained operations and optimal move sequences
-- **[Philosophers](https://github.com/mtelek/philosophers)** – Concurrency simulation using threads, mutexes, and synchronization primitives
-- **[Minishell](https://github.com/mtelek/minishell)** – Unix-like shell supporting parsing, process execution, and piping in C
-- **[Cub3D](https://github.com/mtelek/cub3D)** – Raycasting-based 3D rendering engine with texture mapping and real-time graphics
-- **[Ft_transcendence](https://github.com/mtelek/ft_transcendence)** – Full-stack web application featuring a real-time multiplayer poker game
-
-### Focus Areas
-- Quantitative Analysis & Statistical Modeling
-- Data Engineering & Backend Systems
-- High-performance Programming (C/C++)
-- Algorithm Design & Optimization
+Quantitative & systems-oriented engineer working at the intersection of econometrics, algorithms, and high-performance software.
 
 ---
-### 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/marton-telek/)
+
+## Focus Areas
+- Quantitative modeling & econometrics (regression, threshold models, statistical inference)
+- Algorithm design & optimization under constraints
+- High-performance systems programming (C/C++, concurrency, Linux)
+- Data engineering & backend systems
+
+---
+
+## Selected Work
+
+### 📊 Quantitative Modeling
+**[Threshold Regression Model (Econometrics)](https://github.com/mtelek/threshold_regression_model)**
+Panel threshold analysis of housing price effects on consumption in Spain.
+Focus on regime-dependent relationships and nonlinear effects in macroeconomic data.
+
+---
+
+### ⚙️ Algorithms & Optimization
+**[Ford-Johnson Sorting Algorithm (C++)](https://github.com/mtelek/Ford-Johnson-Algorithm)**
+Implementation of Merge-Insertion sort with emphasis on comparison minimization and algorithmic efficiency.
+
+**[Push_swap (C)](https://github.com/mtelek/push_swap)**
+Sorting under strict operation constraints; optimized move sequences and stack manipulation strategies.
+
+---
+
+### 🧠 Systems Programming
+**[Minishell (C)](https://github.com/mtelek/minishell)**
+Unix-like shell with parsing, process execution, piping, and signal handling.
+
+**[Philosophers (C)](https://github.com/mtelek/philosophers)**
+Concurrency simulation using threads, mutexes, and deadlock avoidance strategies.
+
+---
+
+### 🕹️ Graphics / Systems
+**[Cub3D](https://github.com/mtelek/cub3D)**
+Raycasting engine with texture mapping and real-time rendering pipeline.
+
+---
+
+### 🌐 Full-stack
+**[Ft_transcendence](https://github.com/mtelek/ft_transcendence)**
+Real-time multiplayer poker platform with backend + frontend integration.
+
+---
+
+## Technical Stack
+Python · R · C · C++ · Julia · PostgreSQL · Docker · Linux · Bash · Next.js
+
+---
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/marton-telek/)
