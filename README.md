@@ -12,7 +12,7 @@ Focused on econometrics, algorithm design, high-performance software systems and
 ## Selected Work
 
 ### 📊 Quantitative Modeling
-**[Threshold Regression Model (Econometrics)](https://github.com/mtelek/threshold_regression_model)**
+**[Threshold Regression Model (R)](https://github.com/mtelek/threshold_regression_model)**
 Panel threshold analysis of housing price effects on consumption in Spain.
 Focus on regime-dependent relationships and nonlinear effects in macroeconomic data.
 
@@ -37,13 +37,13 @@ Concurrency simulation using threads, mutexes, and deadlock avoidance strategies
 ---
 
 ### 🕹️ Graphics / Systems
-**[Cub3D](https://github.com/mtelek/cub3D)**
+**[Cub3D (C++)](https://github.com/mtelek/cub3D)**
 Raycasting engine with texture mapping and real-time rendering pipeline.
 
 ---
 
 ### 🌐 Full-stack
-**[Ft_transcendence](https://github.com/mtelek/ft_transcendence)**
+**[Ft_transcendence (Next.js)](https://github.com/mtelek/ft_transcendence)**
 Real-time multiplayer poker platform with backend + frontend integration.
 
 ---
