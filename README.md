@@ -12,6 +12,9 @@ Focused on econometrics, algorithm design, high-performance software systems and
 ## Selected Work
 
 ### 📊 Quantitative Modeling
+**[Credit Risk Modeling (Python)](https://github.com/mtelek/credit_risk)**
+Applied machine learning to credit risk modeling by predicting loan defaults from historical lending data and comparing logistic regression and XGBoost performance.
+
 **[Threshold Regression Model (R)](https://github.com/mtelek/threshold_regression_model)**
 Panel threshold analysis of housing price effects on consumption in Spain.
 Focus on regime-dependent relationships and nonlinear effects in macroeconomic data.
@@ -49,7 +52,7 @@ Real-time multiplayer poker platform with backend + frontend integration.
 ---
 
 ## Technical Stack
-Python · R · C · C++ · Julia · PostgreSQL · Docker · Linux · Bash · Next.js
+Python · R · C · C++ · PostgreSQL · Docker · Linux · Bash · Next.js · Julia
 
 ---
 
