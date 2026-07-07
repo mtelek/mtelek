@@ -52,7 +52,7 @@ Real-time multiplayer poker platform with backend + frontend integration.
 ---
 
 ## Technical Stack
-Python · R · C · C++ · PostgreSQL · Docker · Linux · Bash · Next.js · Julia
+Python · SQL · PostgreSQL · R · C · C++ · Docker · Linux · Bash · Next.js · Julia
 
 ---
 
